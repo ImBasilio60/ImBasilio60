@@ -1,12 +1,13 @@
-<h1 align="center">Hi 👋, I'm HERIMIHARISOA Basilio</h1>
+<h3 align="center"> < Bienvenue sur mon profil /> </Bienvenue></h3>
+<h1 align="center">Basilio HERIMIHARISOA</h1>
 <h3 align="center">🚀 Passionné par le développement d’applications | Fullstack Developer in Progress</h3>
 
 ---
 
 ### 🌱 À propos de moi   
-- 🌱 J’apprends en ce moment **React**
-- 💡 J’aime résoudre des problèmes avec du **code clair et efficace**  
-- 📫 Me contacter : **basilioherimiharisoa@gmail.com**  
+- J’apprends en ce moment **React**
+- J’aime résoudre des problèmes avec du **code clair et efficace**  
+- Me contacter : **basilioherimiharisoa@gmail.com**  
 
 ---
 
