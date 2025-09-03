@@ -3,9 +3,8 @@
 
 ---
 
-### 🌱 À propos de moi  
-- 🔭 Je travaille actuellement sur des projets **React & Django**  
-- 🌱 J’apprends en ce moment **React** & **Next.js**  
+### 🌱 À propos de moi   
+- 🌱 J’apprends en ce moment **React**
 - 💡 J’aime résoudre des problèmes avec du **code clair et efficace**  
 - 📫 Me contacter : **basilioherimiharisoa@gmail.com**  
 
@@ -22,7 +21,7 @@
 
 ### 🛠️ Languages & Tools  
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,express,tailwind,bootstrap,php,python,django,java,c,mysql,postgresql,git,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,npm,tailwind,bootstrap,sass,php,python,java,c,mysql,postgresql,vite,git,github,linux,mint,gmail,webstorm,idea,phpstorm,pycharm,sublime,ai,ps,instagram,jquery,linkedin" />
 </p>
 
 ---
