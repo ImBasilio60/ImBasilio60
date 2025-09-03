@@ -3,11 +3,11 @@
 
 ---
 
-### 🌱 About Me  
-- 🔭 I’m currently working on **React & Django projects**  
-- 🌱 I’m currently learning **React** & **Next.js**  
-- 💡 I love solving problems with **clean & efficient code**  
-- 📫 Reach me at: **basilioherimiharisoa@gmail.com**  
+### 🌱 À propos de moi  
+- 🔭 Je travaille actuellement sur des projets **React & Django**  
+- 🌱 J’apprends en ce moment **React** & **Next.js**  
+- 💡 J’aime résoudre des problèmes avec du **code clair et efficace**  
+- 📫 Me contacter : **basilioherimiharisoa@gmail.com**  
 
 ---
 
