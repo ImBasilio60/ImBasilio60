@@ -11,7 +11,7 @@
 
 ---
 
-### 🤝 Connect with Me  
+### 🤝 Me retrouver 
 <p align="left">
   <a href="mailto:basilioherimiharisoa@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/your-link" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -20,7 +20,7 @@
 
 ---
 
-### 🛠️ Languages & Tools  
+### 🛠️ Langages & Outils 
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,npm,tailwind,bootstrap,sass,php,python,java,c,mysql,postgresql,vite,git,github,linux,mint,gmail,webstorm,idea,phpstorm,pycharm,sublime,ai,ps,instagram,jquery,linkedin" />
 </p>
