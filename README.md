@@ -22,7 +22,7 @@
 
 ### 🛠️ Langages & Outils 
 <p align="center"> 
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,npm,tailwind,bootstrap,sass,php,python,java,c,mysql,postgresql,vite,git,github,linux,mint,gmail,webstorm,idea,phpstorm,pycharm,sublime,ai,ps,jquery,linkedin" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,sass,php,python,java,c,mysql,git,github,linux,webstorm,idea,phpstorm,pycharm,sublime" />
 </p>
 
 ---
