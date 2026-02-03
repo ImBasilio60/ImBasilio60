@@ -5,8 +5,6 @@
 ---
 
 ### 🌱 À propos de moi   
-- J’apprends en ce moment **React**
-- J’aime résoudre des problèmes avec du **code clair et efficace**  
 - Me contacter : **basilioherimiharisoa@gmail.com**  
 
 ---
